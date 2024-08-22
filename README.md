@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy de ARGENTINA<br><br>- 🔭 I’m working as Playero en estacion gulf<br>- 📚 I'm currently learning en instituto superior villa del rosario<br>- ⚡ In my free time I juego videojuegos, hago ejercicio</p>
+<p align="left">Soy de ARGENTINA<br><br>- 🔭 Estoy Trabajando como Playero en estacion gulf<br>- 📚 actualmente estudio en instituto superior villa del rosario<br>- ⚡ en mis tiempos libres juego videojuegos y hago deporte</p>
 
 ###
 
