@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcmlabs.co%2Fen-id%2Fseo-guidelines%2Fweb-developer&psig=AOvVaw37JNeooODUeQ2hzptasF3v&ust=1724451068503000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi6u_7OiYgDFQAAAAAdAAAAABAE"  />
+  <img height="150" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcmlabs.co%2Fen-id%2Fseo-guidelines%2Fweb-developer&psig=AOvVaw37JNeooODUeQ2hzptasF3v&ust=1724451068503000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi6u_7OiYgDFQAAAAAdAAAAABAE](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)"  />
 </div>
 
 ###
