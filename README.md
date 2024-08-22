@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fdesarrollador-de-software_4730509&psig=AOvVaw2X5QZBhnsxr8q8noMQm7Pv&ust=1724452075140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjWsOPSiYgDFQAAAAAdAAAAABAE](https://img.freepik.com/vector-gratis/desarrolladores-web-dibujados-mano_23-2148819604.jpg) "  />
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fdesarrollador-de-software_4730509&psig=AOvVaw2X5QZBhnsxr8q8noMQm7Pv&ust=1724452075140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjWsOPSiYgDFQAAAAAdAAAAABAE](https://img.freepik.com/vector-gratis/desarrolladores-web-dibujados-mano_23-2148819604.jpg "  />
 </div>
 
 ###
