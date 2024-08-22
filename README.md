@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools<br>c#<br>Visual Basic</h3>
+<h3 align="left">🛠 Lenguajes y herramientas<br>c#<br>Visual Basic</h3>
 
 ###
 
