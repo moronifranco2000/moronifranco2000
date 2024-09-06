@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy de ARGENTINA<br><br>- 🔭 actualmente no estoy trabajando en el rubro<br>- 📚 actualmente estudio en instituto superior villa del rosario<br>- ⚡ en mis tiempos libres juego videojuegos y hago deporte</p>
+<p align="left">Soy de ARGENTINA<br><br>- 🔭 buscando oportunidades laborales<br>- 📚 actualmente estudio en instituto superior villa del rosario<br>- ⚡ en mis tiempos libres juego videojuegos y hago deporte</p>
 
 ###
 
