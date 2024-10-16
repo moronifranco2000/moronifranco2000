@@ -36,6 +36,6 @@
 
 ###
 
-<h3 align="left">PROXIMAMENTE AGREGANDO PROYECTOS... :</h3>
+<h3 align="left">DATE UN VISTAZO A MIS REPOSITORIOS :D... :</h3>
 
 ###
